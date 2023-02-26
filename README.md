@@ -1,5 +1,5 @@
 # Code Server
-Run a vscode like instance from server and use it from browser, all of the heavy work will be done in the server. Code from browser insanely fast from any device without slowing down.
+Run a vscode like instance from server and use it from browser, all of the heavy work will be done on server. Code from browser insanely fast from any device without slowing down.
 
 Cloned from https://github.com/linuxserver/docker-code-server
 extras: 
