@@ -24,7 +24,7 @@ Some futuristic predictions:
 In the future, there will be companies that will hire developers, and tell them to enter a web address for devs to do their work on sandboxed enviroment, instructs them to open / create specific files, write code on them and test them or run given test. This could be the 'nirvana' of remote development.
 
 
-Below are original content from cloned readme. Left them because it could be useful.
+Texts below are mostly original content from original project readme. It could be useful.
 
 Access the webui at `http://<your-ip>:8443`.
 For github integration, drop your ssh key in to `/config/.ssh`.
