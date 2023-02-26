@@ -33,6 +33,12 @@ Then open a terminal from the top menu and set your github username and email vi
 ```bash
 git config --global user.name "username"
 git config --global user.email "email address"
+
+
+# if you want to push to github
+git config --global user.name "github_username"
+git config --global user.email "github_username@users.noreply.github.com"
+
 [OPTIONAL]
 git config http.sslVerify "false"
 ```
